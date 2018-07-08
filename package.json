@@ -1,0 +1,19 @@
+{
+  "name": "es6-the-right-parts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invalidred/es6-the-right-parts.git"
+  },
+  "author": "Abdul Khan <invalidred@gmail.com> (http://github.com/invalidred)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/invalidred/es6-the-right-parts/issues"
+  },
+  "homepage": "https://github.com/invalidred/es6-the-right-parts#readme"
+}
